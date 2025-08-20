@@ -108,7 +108,7 @@ Comprehensive performance assessment using full dataset (4 classes, 8000 samples
 ---
 
 ## 📁 Repository Structure  
-'''bash
+```bash
 📦 CIFAR10-NeuralNetwork
 ├── 📄 README.md # Project documentation
 ├── 📊 data/ # Dataset handling utilities
@@ -116,7 +116,7 @@ Comprehensive performance assessment using full dataset (4 classes, 8000 samples
 ├── 📈 results/ # Performance metrics and visualizations
 ├── 🔬 experiments/ # Testing and evaluation scripts
 └── 📜 requirements.txt # Project dependencies
-'''
+```
 ## 🚀 How to Run  
 
 **1. Install dependencies:**  
